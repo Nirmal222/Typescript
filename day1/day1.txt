@@ -1,0 +1,6 @@
+- Typescript is the superset of javascript
+- It helps you write good code by throwing runtime errors
+- It is all about the type of safety
+    - Ex: 2+”2”=”22” - This is a JS behavior that is not conventional.
+- The job of typescript is to check static checking
+- It is a transpiler which at the end of the day converts the code to Javascript
