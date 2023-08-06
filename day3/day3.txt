@@ -1,0 +1,8 @@
+- Types : 
+    - Primitive(Number, Boolean, String, Null, undefined, Void, NaN)
+    - Abstract(Object, Arrays, Tuples etc..), 
+    - Any, Naver, unknown
+
+- Syntax: 
+    - let variableName: type = value
+    - note: all the types in JS are in lowercase
