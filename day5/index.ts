@@ -12,8 +12,8 @@ const User = {
 
 // createUser({name:"Nirmal", isPaid:false}); 
 
-function createCourse():{name:string,price: number}{
-    return {name:"reactjs", price: 20} 
+function createCourse(name: string, price: number):{name:string,price: number}{
+    return {name:name, price: price} 
 }
 
 // type aliases 
