@@ -23,3 +23,7 @@ const data3: (string|number)[] = ["1",2];
 let pi:3.14 = 3.14; // pi = 3.145 -> this is not allowed as the value is always 3.14
 let seatAllotment: "aisle" | "middle" | "window"
 seatAllotment = crew //crew is not defined so it is not allowed
+
+//Tuples: For tuples there is an order maintained respect to datatypes
+let tuser:[string, number, boolean];
+tuser = ["hc", 131, true];
