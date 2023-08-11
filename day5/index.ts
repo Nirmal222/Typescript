@@ -52,6 +52,7 @@ type cardDate = {
     carddate: string
 }
 
+// Intersections 
 type cardDetails = cardNumber & cardDate & {
     cvv: string
 }
