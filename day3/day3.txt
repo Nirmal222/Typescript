@@ -1,7 +1,7 @@
 - Types : 
     - Primitive(Number, Boolean, String, Null, undefined, Void, NaN)
     - Abstract(Object, Arrays, Tuples etc..), 
-    - Any, Naver, unknown
+    - Any, Never, unknown
 
 - Syntax: 
     - let variableName: type = value
