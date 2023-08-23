@@ -25,7 +25,7 @@ type User = {
     creditCard?: number
 }
 
-// type Mystring = string; This is just like a new string dataType 
+// type Mystring = string; This is just like a new string dataType.
 
 function createUser(user:User):User{
     return { name: user.name, email: user.email, isActive: user.isActive }
